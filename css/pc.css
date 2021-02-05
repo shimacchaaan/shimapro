@@ -1,0 +1,27 @@
+#wrapper {
+  background-image: url(../img/mv_bg.jpg) !important;
+}
+#wrapper #career #appendix p {
+  background-image: url(../img/toeic.jpg);
+}
+#wrapper #poem {
+  background-image: url(../img/poem_bg.jpg);
+}
+
+#workVision #workVision1 {
+  background-image: url(../img/workvision_pict1.jpg);
+}
+#workVision #workVision2 {
+  background-image: url(../img/workvision_pict2.jpg);
+}
+#workVision #workVision3 {
+  background-image: url(../img/workvision_pict3.jpg);
+}
+
+#comment #comment1, #comment #comment2, #comment #comment3, #comment #comment4, #comment #comment5, #comment #comment6 {
+  background-image: url(../img/comment_pict.jpg);
+}
+
+#wallpaper #wallpaperPrev dt {
+  background-image: url(../img/wallpaper.jpg);
+}
