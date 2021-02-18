@@ -141,7 +141,8 @@ body {
   height: 17px;
   width: 273px;
   text-indent: -9999px;
-  background: url(../img/site_ttl.png) no-repeat;
+/*20210218_shima差し替え*/
+  background: url(../img/site_ttl_shima.png) no-repeat;
 }
 #mainVisual #kikuchiMain {
   display: none;
