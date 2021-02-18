@@ -760,11 +760,12 @@ body {
   float: left;
   _display: inline;
   _zoom: 1;
-  background-image: url(../img/btn_sprite.png);
+  /*20210218_shima差し替え*/
+  background-image: url(../img/btn_sprite_shima.png);
   margin-top: 20px;
 }
 #wallpaper #wallpaperPrev dd a {
-  background-image: url(../img/btn_sprite.png);
+  background-image: url(../img/btn_sprite_shima.png);
   display: block;
   width: 165px;
   height: 44px;
