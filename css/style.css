@@ -370,7 +370,7 @@ body {
 }
 #career h2 {
   text-indent: -9999px;
-  background-image: url(../img/h2_sprite.png);
+  background-image: url(../img/h2_sprite_shima.png);
   background-repeat: no-repeat;
   height: 82px;
   margin: 0 auto 60px;
@@ -511,7 +511,7 @@ body {
 }
 #workVision h2 {
   text-indent: -9999px;
-  background-image: url(../img/h2_sprite.png);
+  background-image: url(../img/h2_sprite_shima.png);
   background-repeat: no-repeat;
   height: 82px;
   margin: 0 auto 60px;
@@ -599,7 +599,7 @@ body {
 }
 #poem h2 {
   text-indent: -9999px;
-  background-image: url(../img/h2_sprite.png);
+  background-image: url(../img/h2_sprite_shima.png);
   background-repeat: no-repeat;
   height: 82px;
   margin: 0 auto 60px;
@@ -636,7 +636,7 @@ body {
 }
 #comment h2 {
   text-indent: -9999px;
-  background-image: url(../img/h2_sprite.png);
+  background-image: url(../img/h2_sprite_shima.png);
   background-repeat: no-repeat;
   height: 82px;
   margin: 0 auto 60px;
@@ -721,7 +721,7 @@ body {
 }
 #wallpaper h2 {
   text-indent: -9999px;
-  background-image: url(../img/h2_sprite.png);
+  background-image: url(../img/h2_sprite_shima.png);
   background-repeat: no-repeat;
   height: 82px;
   margin: 0 auto 60px;
@@ -792,7 +792,7 @@ body {
 }
 #entry h2 {
   text-indent: -9999px;
-  background-image: url(../img/h2_sprite.png);
+  background-image: url(../img/h2_sprite_shima.png);
   background-repeat: no-repeat;
   height: 82px;
   margin: 0 auto 60px;
@@ -813,7 +813,7 @@ body {
   margin: 0 auto 40px;
   width: 480px;
   height: 88px;
-  background: url(../img/btn_entry_bg.png) no-repeat;
+  background: url(../img/btn_entry_bg_shima.png) no-repeat;
 }
 #entry #btnEntry a {
   display: block;
