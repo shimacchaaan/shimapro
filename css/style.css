@@ -336,7 +336,8 @@ body {
 }
 #introduction h2 {
   text-indent: -9999px;
-  background-image: url(../img/h2_sprite.png);
+  /*20210218_shima差し替え*/
+  background-image: url(../img/h2_sprite_shima.png);
   background-repeat: no-repeat;
   height: 82px;
   margin: 0 auto 60px;
