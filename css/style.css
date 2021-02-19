@@ -89,6 +89,7 @@ input, select {
   clear: both;
 }
 
+/*20210220 backgroundと画像変更*/
 body {
   background: #FAFAFA url(../img/bg_shima.jpg) top repeat-x;
 }
@@ -271,11 +272,11 @@ body {
   float: left;
   _display: inline;
   _zoom: 1;
-  background-image: url(../img/nav_sprite.png);
+  background-image: url(../img/nav_sprite_shima.png);
 }
 #globalNav li a {
   text-indent: -9999px;
-  background-image: url(../img/nav_sprite.png);
+  background-image: url(../img/nav_sprite_shima.png);
   display: block;
   height: 70px;
 }
