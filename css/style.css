@@ -340,6 +340,7 @@ body {
   /*20210218_shima差し替え*/
   background-image: url(../img/h2_sprite_shima.png);
   background-repeat: no-repeat;
+  min-width:50%;
   height: 82px;
   margin: 0 auto 60px;
 }
