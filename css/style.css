@@ -454,8 +454,10 @@ body {
   _zoom: 1;
   width: 155px;
   margin-top: 7px;
-  color: #fff;
-  font-size: 14px;
+/* 20210221カラー*/
+  color: #212121;
+/* 20210221フォント 14px → 13px*/
+  font-size: 13px;
   line-height: 1.5;
 }
 #career #biography .omission dt {
