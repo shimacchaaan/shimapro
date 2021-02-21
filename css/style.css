@@ -642,8 +642,9 @@ body {
   height: 82px;
   margin: 0 auto 60px;
 }
+/*20210221画像の縦　表示範囲(min-height 199px)変更*/
 #comment #comment1, #comment #comment2, #comment #comment3, #comment #comment4, #comment #comment5, #comment #comment6 {
-  min-height: 200px;
+  min-height: 199px;
   height: auto !important;
   height: 200px;
   width: 350px;
