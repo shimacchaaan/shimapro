@@ -275,12 +275,13 @@ $(function(){
 		//スライドデータ
 		var setting = {
 
-			//画像
+			//画像 20210222更新画像17
+			
 			images:[
-				['./img/career1_a.jpg', './img/career1_a.jpg'],
-				['./img/career2_a.jpg', './img/career2_b.jpg', './img/career2_c.jpg', './img/career2_d.jpg', './img/career2_e.jpg'],
-				['./img/career3_a.jpg', './img/career3_b.jpg', './img/career3_c.jpg', './img/career3_d.jpg', './img/career3_e.jpg', './img/career3_f.jpg', './img/career3_g.jpg'],
-				['./img/career4_a.jpg', './img/career4_b.jpg', './img/career4_c.jpg', './img/career4_d.jpg']
+				['./img/career1_a_shima.jpg', './img/career1_a_shima.jpg'],
+				['./img/career2_a_shima.jpg', './img/career2_b_shima.jpg', './img/career2_c_shima.jpg', './img/career2_d_shima.jpg', './img/career2_e_shima.jpg'],
+				['./img/career3_a_shima.jpg', './img/career3_b_shima.jpg', './img/career3_c_shima.jpg', './img/career3_d_shima.jpg', './img/career3_e_shima.jpg', './img/career3_f_shima.jpg', './img/career3_g_shima.jpg'],
+				['./img/career4_a_shima.jpg', './img/career4_b_shima.jpg', './img/career4_c_shima.jpg', './img/career4_d_shima.jpg']
 			],
 
 			//はこ
