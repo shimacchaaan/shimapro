@@ -422,6 +422,12 @@ body {
 #career #slideShow #careerImage1, #career #slideShow #careerImage3 {
   margin: 0 10px 10px 0;
 }
+#careerImage1, #careerImage2, #careerImage3, #careerImage4 {
+  /*  20210222丸み  */
+  border-radius:8px;
+}
+
+
 #career #biography {
   float: left;
   _display: inline;
@@ -479,6 +485,7 @@ body {
 }
 #career #biography .guide dd {
   display: none;
+  
 }
 #career #appendix {
   width: 700px;
@@ -490,6 +497,8 @@ body {
   width: 463px;
   height: 26px;
   margin-bottom: 20px;
+  /*  20210222丸み  */
+  border-radius:9px;
 }
 #career #appendix p {
   min-height: 208px;
@@ -501,6 +510,8 @@ body {
   text-shadow: -1px -1px 1px black;
   background: url(../img/tunecore.png) no-repeat left 0;
   padding-left: 500px;
+　/*  20210222丸み  */
+  border-radius:9px;
 }
 #career #appendix p span {
   font-weight: bold;
