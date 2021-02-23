@@ -536,11 +536,12 @@ body {
   width: 350px;
   margin: 0 auto 70px;
 }
+/* 20210223 文言色変更　シャドウなし */
 #workVision #workVision1 p, #workVision #workVision2 p, #workVision #workVision3 p {
-  font-size: 14px;
+  font-size: 13px;
   line-height: 1.5;
-  color: #fff;
-  text-shadow: -1px -1px 1px black;
+  color: #212121;
+  text-shadow: none;
   text-indent: 1em;
 }
 #workVision #workVision1 .annotation, #workVision #workVision2 .annotation, #workVision #workVision3 .annotation {
