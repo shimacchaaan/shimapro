@@ -504,7 +504,7 @@ body {
   font-size: 12px;
   line-height: 1.5;
   color: #212121;
-  text-shadow: -1px -1px 1px black;
+  text-shadow:none;
   background: url(../img/sp/tunecore.png) no-repeat left 0;
   padding-left: 500px;
 }
