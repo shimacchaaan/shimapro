@@ -848,6 +848,13 @@ body {
   height: 55px;
   background: url(../img/btn_follow_l_bg_shima.png) no-repeat;
 }
+
+/*20210223 画像まるみ */
+#btnFollowBottom img {
+  border-box:8px;  
+  min-height:2px;
+}
+
 #entry #btnFollowBottom a {
   display: block;
   width: 224px;
