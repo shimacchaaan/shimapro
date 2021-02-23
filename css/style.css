@@ -734,11 +734,12 @@ body {
   padding: 50px 0;
   background: url(../img/line.png) right bottom repeat-x;
 }
+/* 20210223 height 変更し、画像全体を表示させる。*/
 #wallpaper h2 {
   text-indent: -9999px;
   background-image: url(../img/h2_sprite_shima.png);
   background-repeat: no-repeat;
-  height: 82px;
+  height: 87px;
   margin: 0 auto 60px;
 }
 #wallpaper h2 {
