@@ -497,11 +497,12 @@ body {
   height: 26px;
   margin-bottom: 20px;
 }
+/*20210223文言変更*/
 #career #appendix p {
   min-height: 208px;
   height: auto !important;
   height: 208px;
-  font-size: 12px;
+  font-size: 11px;
   line-height: 1.5;
   color: #212121;
   text-shadow:none;
@@ -851,7 +852,7 @@ body {
 
 /*20210223 画像まるみ */
 #btnFollowBottom img {
-  border-box:8px;  
+  border-radius:8px;  
   min-height:2px;
 }
 
