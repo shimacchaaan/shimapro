@@ -866,8 +866,8 @@ body {
 #entry #inspiredCredits {
   font-size: 14px;
   line-height: 1.5;
-  color: #fff;
-  text-shadow: -1px -1px 1px black;
+  color: #212121;
+  text-shadow:none;
   margin: 10px auto 20px;
   text-align: center;
 }
