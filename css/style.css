@@ -850,6 +850,9 @@ body {
   width: 224px;
   height: 55px;
   background: url(../img/btn_follow_l_bg_shima.png) no-repeat;
+  /*20210226 画像まるみ */
+  border-radius:8px;  
+  min-height:2px;
 }
 
 /*20210223 画像まるみ */
