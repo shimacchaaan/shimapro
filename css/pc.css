@@ -22,6 +22,7 @@
   background-image: url(../img/comment_pict_shima.jpg);
 }
 /*20210227 壁紙のpng変更*/
-#wallpaper #wallpaperPrev dt {
+/*20210228コメントアウト 
+  #wallpaper #wallpaperPrev dt {
   background-image: url(../img/wallpaper_shima.png);
-}
+} */
