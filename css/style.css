@@ -668,7 +668,9 @@ body {
 
 /*20210301おにぎりあげる用の画像*/
 #comment #comment1, #comment #comment2, #comment #comment3, #comment #comment4, #comment #comment5, #comment #comment6 {
-  block:none;
+/* 非表示 display:noneと浮かせる z-index:1*/
+  display:none;
+  z-index:1;
   min-height: 199px;
   height: auto !important;
   height: 200px;
