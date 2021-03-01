@@ -665,21 +665,6 @@ body {
   background-image: url(../img/sp/comment_pict_shima.jpg);
   background-repeat: no-repeat;
 }
-
-/*20210301おにぎりあげる用の画像*/
-#comment #comment1, #comment #comment2, #comment #comment3, #comment #comment4, #comment #comment5, #comment #comment6 {
-/* 非表示 display:noneと浮かせる z-index:1*/
-  display:none;
-  z-index:1;
-  min-height: 199px;
-  height: auto !important;
-  height: 200px;
-  width: 350px;
-  margin: 0 auto 70px;
-  background-image: url(../img/sp/comment_pict_shima_nigiri.jpg);
-  background-repeat: no-repeat;
-}
-
 #comment #comment1 p, #comment #comment2 p, #comment #comment3 p, #comment #comment4 p, #comment #comment5 p, #comment #comment6 p {
   font-size: 14px;
   line-height: 1.5;
