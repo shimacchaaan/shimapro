@@ -721,6 +721,9 @@ body {
 #comment #comment4 p {
   font-size: 20px;
 }
+#onigiri {
+  cursor:pointer;
+}
 #comment #comment5 {
   background-position: right -800px;
 }
