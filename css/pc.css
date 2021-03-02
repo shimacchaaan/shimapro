@@ -24,7 +24,7 @@
 
 /*20210302おにぎりクラス */
 .onigiri {
-  background-image: url(../img/comment_pict_shima_nigiri.png);
+  background-image: url(../img/comment_pict_shima_nigiri.png)　!important;
 } 
 
 /*20210227 壁紙のpng変更*/
