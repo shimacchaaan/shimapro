@@ -319,6 +319,6 @@ $(function(){
 // 20210301こっから「おにぎり」
 $(function() {
 		$(`#onigiri`).click(function(){
-			$(`#comment`).css(`background-image`,`url(../img/comment_pict_shima_nigiri.png)`);
+			$(`#comment`).addClass(`background-image`,`url(../img/comment_pict_shima_nigiri.png)`);
 		});
 });
