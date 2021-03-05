@@ -634,7 +634,8 @@ body {
   background: url(../img/h3_poeme_ttl_shima.png);
 }
 #poem #poemText {
-  margin: 50px 0 0 100px;
+/* 20210305marginを50px → 30px狭くする*/
+  margin: 30px 0 0 100px;
   font-size: 20px;
   line-height: 1.5;
 /* 20210305画像に合わせ、color 変更*/
