@@ -264,7 +264,7 @@ $(function(){
 			$('#biography .guide dt').html('tap');
 		} else {
 		//高画質書き戻し
-			$('#kikuchiMain').attr('src','./img/kikuchi_main.png');		
+			$('#kikuchiMain').attr('src','./img/shimabara_main.png');		
 		}
 	};
 
