@@ -263,7 +263,7 @@ $(function(){
 		if(isSp) {
 			$('#biography .guide dt').html('tap');
 		} else {
-		//高画質書き戻し
+		//高画質書き戻し 島原の画像に書き換え
 			$('#kikuchiMain').attr('src','./img/shimabara_main.png');		
 		}
 	};
