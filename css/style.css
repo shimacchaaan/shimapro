@@ -635,10 +635,11 @@ body {
 }
 #poem #poemText {
   margin: 50px 0 0 100px;
-  font-size: 14px;
+  font-size: 20px;
   line-height: 1.5;
-  color: #fff;
-  text-shadow: -1px -1px 1px black;
+/* 20210305画像に合わせ、color 変更*/
+  color: #212121;
+/*   text-shadow: -1px -1px 1px black; */
 }
 #poem #poemText p {
   margin-bottom: 35px;
