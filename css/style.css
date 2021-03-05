@@ -239,19 +239,21 @@ body {
   height: 75px;
   background-position: -178px -92px;
 }
+
+/* 20210305画像のズレを修正*/
 #mainVisual #mainTtl #title7 {
   top: 90px;
   left: 253px;
-  width: 75px;
+  width: 65px;
   height: 75px;
   background-position: -253px -94px;
 }
 #mainVisual #mainTtl #title8 {
   top: 90px;
-  left: 328px;
-  width: 28px;
-  height: 75px;
-  background-position: -328px -94px;
+  left: 325px;
+  width: 60px;
+  height: 78px;
+  background-position: -321px -94px;
 }
 #mainVisual #mainTtl #subTtl {
   top: 190px;
