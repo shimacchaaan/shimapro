@@ -351,7 +351,8 @@ body {
   height: auto !important;
   height: 460px;
   margin-left: 50px;
-  background: url(../img/kikuchi_sitting.png) right bottom no-repeat;
+/* 20210305画像変更*/
+  background: url(../img/shimabara_sitting.png) right bottom no-repeat;
 }
 #introduction h2 {
   width: 386px;
