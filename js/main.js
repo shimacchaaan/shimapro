@@ -320,7 +320,6 @@ $(function(){
 $(function() {
 		$(`#onigiri`).click(function(){
 			$(`#comment,#comment1,#comment2,#comment3,#comment4,#comment5,#comment6`).addClass(`onigiri`,``);
-			$(`#comment,#comment1,#comment2,#comment3,#comment4,#comment5,#comment6`).toggle();
 			$(`.onigiri`).toggle();
 		});
 });
