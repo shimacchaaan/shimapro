@@ -735,7 +735,7 @@ body {
   background-repeat: no-repeat;
 }
 
-.onigiri {
+/* .onigiri {
   min-height: 199px;
   height: auto !important;
   height: 200px;
@@ -743,7 +743,7 @@ body {
   margin: 0 auto 70px;
   background-image: url(../img/sp/comment_pict_shima_nigiri.png);
   background-repeat: no-repeat;
-}  
+}   */
 #comment #comment1 p, #comment #comment2 p, #comment #comment3 p, #comment #comment4 p, #comment #comment5 p, #comment #comment6 p {
   font-size: 14px;
   line-height: 1.5;
