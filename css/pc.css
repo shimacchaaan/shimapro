@@ -22,10 +22,10 @@
   background-image: url(../img/comment_pict_shima.jpg);
 }
 
-/*20210302おにぎりクラス */
-.onigiri {
-  background-image: url(../img/comment_pict_shima_nigiri.png)　!important;
-} 
+/*20210306 toggle change */
+#comment.change #comment1.change, #comment.change #comment2.change, #comment.change #comment3.change, #comment.change #comment4.change, #comment.change #comment5.change, #comment.change #comment6.change {
+  background-image: url(../img/sp/comment_pict_shima_nigiri.png);
+}
 
 /*20210227 壁紙のpng変更*/
 #wallpaper #wallpaperPrev dt {
