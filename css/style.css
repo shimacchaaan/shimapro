@@ -736,17 +736,16 @@ body {
   background-image: url(../img/sp/comment_pict_shima.jpg);
   background-repeat: no-repeat;
 }
-
-/*20210306おにぎりclass*/
-.onigiri {
+/*20210306 toggle.change*/
+#comment.change #comment1.change, #comment.change #comment2.change, #comment.change #comment3.change, #comment.change #comment4.change, #comment.change #comment5.change, #comment.change #comment6.change {
   min-height: 199px;
   height: auto !important;
   height: 200px;
   width: 350px;
   margin: 0 auto 70px;
-  background-image: url(../img/sp/comment_pict_shima_nigiri.png);
+  background-image: url(../img/sp/comment_pict_shima_nigiri.jpg);
   background-repeat: no-repeat;
-}  
+}
 
 #comment #comment1 p, #comment #comment2 p, #comment #comment3 p, #comment #comment4 p, #comment #comment5 p, #comment #comment6 p {
   font-size: 14px;
