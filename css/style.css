@@ -285,11 +285,30 @@ body {
 #globalNav #gnIntrodution {
   background-position: 0 -70px;
 }
+/* 20210306 activeのときの凹み*/
+#globalNav #gnIntrodution:active{
+  background-position: 0 -70px;
+  overflow: hidden;
+  object-fit: cover;
+  height: 63px;
+  position: relative;
+  top: 7px;
+}
+
 #globalNav #gnIntrodution a {
   width: 172px;
 }
 #globalNav #gnCareer {
   background-position: -172px -70px;
+}
+/* 20210306 activeのときの凹み*/
+#globalNav #gnCareer:active {
+  background-position: -172px -70px;
+  overflow: hidden;
+  object-fit: cover;
+  height: 63px;
+  position: relative;
+  top: 7px;
 }
 #globalNav #gnCareer a {
   width: 104px;
@@ -298,12 +317,30 @@ body {
 #globalNav #gnWorkVision {
   background-position: -276px -70px;
 }
+/* 20210306 activeのときの凹み*/
+#globalNav #gnWorkVision:active {
+  background-position: -276px -70px;
+  overflow: hidden;
+  object-fit: cover;
+  height: 63px;
+  position: relative;
+  top: 7px;
+}
 #globalNav #gnWorkVision a {
   width: 150px;
   background-position: -276px 0;
 }
 #globalNav #gnPoem {
   background-position: -426px -70px;
+}
+/* 20210306 activeのときの凹み*/
+#globalNav #gnPoem:active {
+  background-position: -426px -70px;
+  overflow: hidden;
+  object-fit: cover;
+  height: 63px;
+  position: relative;
+  top: 7px;
 }
 #globalNav #gnPoem a {
   width: 103px;
@@ -312,6 +349,15 @@ body {
 #globalNav #gnComment {
   background-position: -529px -70px;
 }
+/* 20210306 activeのときの凹み*/
+#globalNav #gnComment:active {
+  background-position: -529px -70px;
+  overflow: hidden;
+  object-fit: cover;
+  height: 63px;
+  position: relative;
+  top: 7px;
+}
 #globalNav #gnComment a {
   width: 136px;
   background-position: -529px 0;
@@ -319,12 +365,30 @@ body {
 #globalNav #gnWallpaper {
   background-position: -665px -70px;
 }
+/* 20210306 activeのときの凹み*/
+#globalNav #gnWallpaper:active {
+  background-position: -665px -70px;
+  overflow: hidden;
+  object-fit: cover;
+  height: 63px;
+  position: relative;
+  top: 7px;
+}
 #globalNav #gnWallpaper a {
   width: 102px;
   background-position: -665px 0;
 }
 #globalNav #gnEntry {
   background-position: -767px -70px;
+}
+/* 20210306 activeのときの凹み*/
+#globalNav #gnEntry:active {
+  background-position: -767px -70px;
+  overflow: hidden;
+  object-fit: cover;
+  height: 63px;
+  position: relative;
+  top: 7px;
 }
 #globalNav #gnEntry a {
   width: 130px;
